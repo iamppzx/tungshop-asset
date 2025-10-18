@@ -8,7 +8,7 @@
   "fields": [
     {
       "name": "ลิ้ง Discord CC TOWN",
-      "value": "https://discord.gg/stkxAt4PJP\n\nกด F8 วาง IP และกด Enter เพื่อเข้าสู่ประเทศ\n```connect 154.84.153.133```\n\n----- **หรือ** กด [__**เชื่อมต่อ**__](https://cfx.re/join/7gvv4e) เพื่อเข้าสู่เซิฟเวอร์โดยตรง  -----",
+      "value": "https://discord.gg/stkxAt4PJP\n\nกด F8 วาง IP และกด Enter เพื่อเข้าสู่ประเทศ\n```connect 154.84.153.133```\n\n--- **หรือ** กด [__**เชื่อมต่อ**__](https://cfx.re/join/7gvv4e) เพื่อเข้าสู่เซิฟเวอร์โดยตรง  ---",
       "inline": true
     }
   ],
